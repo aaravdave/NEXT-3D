@@ -10,7 +10,7 @@ Nanoparticle Efficacy Simulations for Treatment in 3D (NEXT 3D) is a...
 *Coming Soon*
 
 ## Recognizations
-*Coming Soon*
+- Delegation, 2024 American Junior Academy of Sciences
 
 ## Technical Specifications
 *Coming Soon*
