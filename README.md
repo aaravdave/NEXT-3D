@@ -1,4 +1,5 @@
 # NEXT 3D
+Aarav H. Dave<sup>1</sup>
 
 ## Summary
 Nanoparticle Efficacy Simulations for Treatment in 3D (NEXT 3D) is a...
@@ -17,7 +18,8 @@ This software was made in Python with 3-D visualization conducted via the parent
 
 ## License
 This software, as with all subsequent versions of the software, is protected by the CC-BY-NC-ND license. In summary, this does not allow commercial usage, distribution, or distribution of modifications of the software. In additon, you are required to credit authorship and state any changes you may have made.
-> More information is in the file titled `LICENSE`.
+> For more information, please refer to the `LICENSE` file.
 
 ## Contacts
 For questions concerning the contents of this repository, please contact aaravhdave [at] gmail [dot] com.
+###### <sup>1</sup> Lowndes High School, Valdosta, GA
