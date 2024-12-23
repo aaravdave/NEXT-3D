@@ -12,7 +12,7 @@ Glioblastoma multiforme, an aggressive and highly lethal form of central nervous
 ## Paper
 *Coming Soon*
 
-## Recognizations
+## Recognitions
 - Delegation, 2024 American Junior Academy of Sciences
 
 ## Technical Specifications
