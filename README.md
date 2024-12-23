@@ -1,4 +1,4 @@
-![Glioblasted Logo](logo.png)
+![NEXT 3D Logo](logo.png)
 # NEXT 3D
 Aarav H. Dave<sup>1</sup>
 > This repository currently does not contain project files.
