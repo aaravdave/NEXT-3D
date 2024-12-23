@@ -23,5 +23,5 @@ This software, as with all subsequent versions of the software, is protected by 
 > For more information, please refer to the `LICENSE` file.
 
 ## Contacts
-For questions concerning the contents of this repository, please contact aaravhdave [at] gmail [dot] com.
+For questions concerning the contents of this repository, please contact contact [at] next-3d [dot] com.
 ###### <sup>1</sup> Lowndes High School, Valdosta, GA
