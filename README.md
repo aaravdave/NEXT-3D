@@ -1,6 +1,6 @@
 ![NEXT 3D Logo](logo.png)
 # NEXT 3D
-[[Website]](https://next-3d.com) [[Publication]](#) [[PDF Format]](#) [[BibTeX]](#) [[Video]](#)<br>
+[[Project]](https://next-3d.com) [[Publication]](#) [[PDF Format]](#) [[BibTeX]](#) [[Video]](#)<br>
 Aarav H. Dave<sup>1</sup>
 > This repository currently does not contain project files.
 
