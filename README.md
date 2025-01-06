@@ -1,7 +1,7 @@
 ![NEXT 3D Logo](logo.png)
 # NEXT 3D
 [[Project]](https://next-3d.com) [[Publication]](#) [[PDF Format]](#) [[BibTeX]](#) [[Video]](#)<br>
-Aarav H. Dave<sup>1</sup>
+Aarav H. Dave[^1]
 > This repository currently does not contain project files.
 
 ## Summary
@@ -25,4 +25,5 @@ This software, as with all subsequent versions of the software, is protected by 
 
 ## Contacts
 For questions concerning the contents of this repository, please contact contact [at] next-3d [dot] com.
-###### <sup>1</sup> Lowndes High School, Valdosta, GA
+
+[^1]: Lowndes High School, Valdosta, GA
