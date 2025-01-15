@@ -14,7 +14,7 @@ Glioblastoma multiforme, an aggressive and highly lethal form of central nervous
 *Coming Soon*
 
 ## Recognitions
-- Delegation, 2024 American Junior Academy of Sciences
+- Delegation, 2025 American Junior Academy of Sciences
 
 ## Technical Specifications
 This software was made in Python with 3-D visualization conducted via the parent library p3D.
