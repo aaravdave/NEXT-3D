@@ -1,6 +1,7 @@
 ![NEXT 3D Logo](logo.png)
 # NEXT 3D
 [[Project]](https://next-3d.com)
+
 Aarav H. Dave[^1]
 > This repository currently does not contain project files.
 
@@ -15,6 +16,7 @@ Glioblastoma multiforme, an aggressive and highly lethal form of central nervous
 
 ## Recognitions
 - Delegation, 2025 American Junior Academy of Sciences
+- Oral Presentation, 2025 Georgia Junior Science and Humanities Symposium
 
 ## Technical Specifications
 This software was made in Python with 3-D visualization conducted via the parent library p3D.
