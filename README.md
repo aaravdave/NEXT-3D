@@ -17,6 +17,7 @@ Glioblastoma multiforme, an aggressive and highly lethal form of central nervous
 ## Recognitions
 - Delegation, 2025 American Junior Academy of Sciences
 - Oral Presentation, 2025 Georgia Junior Science and Humanities Symposium
+- State Competitor, 2025 Georgia Science and Engineering Fair
 
 ## Technical Specifications
 This software was made in Python with 3-D visualization conducted via the parent library p3D.
