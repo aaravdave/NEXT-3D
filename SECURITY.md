@@ -17,7 +17,7 @@ If you identify a security vulnerability within `NEXT-3D`, **please do not discl
 
 To report securely:
 
-- **Email:** contact [at] next-3d.com
+- **Email:** contact [at] next-3d [dot] com
 - **Subject Line:** `Security Issue: NEXT-3D`
 - Include:
   - A concise summary of the issue.
