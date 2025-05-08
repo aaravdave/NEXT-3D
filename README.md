@@ -1,5 +1,5 @@
 ![NEXT 3D Logo](logo.png)
-# NEXT 3D [AAAS Annual Meeting 2025]
+# NEXT 3D [[AAAS Annual Meeting 2025]](https://aaas.confex.com/aaas/2025/meetingapp.cgi/Session/36087)
 [[Project]](https://next-3d.com)
 
 Aarav H. Dave[^1]
